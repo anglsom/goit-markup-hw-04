@@ -243,9 +243,9 @@ padding: 30px 0;
 .button {color:var(--primary-white-color); 
     background-color: var(--accent-color);
     font-family: 'Roboto';
-    font-weight: 700;
+    font-weight: 500;
     font-size: 16px;
-    line-height: 1.9;
+    line-height: 1.63;
     align-items: center;
     letter-spacing: 0.06em;
     padding: 10px 32px;
@@ -597,7 +597,7 @@ line-height: 1.71;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 50px;
+   
     
 }
 .item-hero { 

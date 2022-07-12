@@ -425,7 +425,9 @@ padding-bottom: 94px;}
     line-height: 1.18;
     margin-top: 10px;
 /*--padding-bottom: 30px;--*/}
-
+.section-com .text-com{
+    margin-bottom: 16px;
+}
 .border-com{
     padding-top:30px;
     padding-bottom: 30px;

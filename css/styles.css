@@ -508,6 +508,12 @@ padding-bottom: 94px;}
     display: flex;
     fill: var(--icon-color);
 }
+.client-link:hover,
+.client-link:active{
+    background-color: var(--accent-color);
+    fill: var(--primary-white-color);
+}
+}
 .client-image{
     width: 170px;
     height: 92px;

@@ -71,7 +71,6 @@ margin: 0;
 .main-nav {
     display: flex;
     align-items: center;
-
     
 }
 
@@ -254,8 +253,8 @@ cursor: pointer;
 text-align: center;
 
 }
-.button.primary {color:var(--primary-white-color);
-    background-color: var(--accent-color);
+.button.primary {color:var(--title-text-color);
+    background-color: var(--button-color);
     border: #18a0fb;
      cursor: pointer;
      text-align: center;}

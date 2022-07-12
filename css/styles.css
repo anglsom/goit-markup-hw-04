@@ -167,7 +167,6 @@ padding: 30px 0;
 
 .link:hover,.link:focus { color: var(--accent-color); 
     text-decoration: none; 
-    background-color:var(--secondary-background-color);
 }
 .contact-nav{
     display: flex;

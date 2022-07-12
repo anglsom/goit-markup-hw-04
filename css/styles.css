@@ -583,7 +583,7 @@ line-height: 1.71;
     height: 44px;
     fill: var(--primary-white-color);
 }
-.footer-social-link:not(:last-child){
+.footer-social-icon li:not(:last-child){
     margin-right: 10px;
 }
 .footer-social-link:hover,

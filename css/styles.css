@@ -133,7 +133,7 @@ padding-bottom: 32px;}
 }
  .link-nav:hover,.link-nav:focus { color: var(--accent-color); 
         text-decoration: none;
-         background-color:var(--secondary-background-color);} 
+    } 
 
     .link {color:var(--primary-text-color);
 font-family: 'Roboto';

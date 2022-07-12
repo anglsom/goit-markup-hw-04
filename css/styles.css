@@ -515,15 +515,16 @@ padding-bottom: 94px;}
     fill: var(--accent-color);
 }--*/
 
-.client-link:hover, 
+/*--.client-link:hover, 
 .client-link:focus {
     fill: var(--hover-text-color);
     border: 1px solid #2196f3;
-    outline: none;}
+    outline: none;}--*/
 
-    .client-image{
+ .client-image{
     width: 170px;
     height: 92px;
+
 }
 
 /* Footer */

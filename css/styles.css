@@ -492,6 +492,7 @@ padding-bottom: 94px;}
     display: flex;
     justify-content: center;
     text-align: center;
+    align-items: center;
 }
 .client-item:not(:last-child){
     margin-right: 30px;

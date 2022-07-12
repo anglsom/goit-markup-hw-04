@@ -508,13 +508,20 @@ padding-bottom: 94px;}
     display: flex;
     fill: var(--icon-color);
 }
-.client-link:hover,
-.client-link:active{
-    background-color: var(--accent-color);
-    fill: var(--primary-white-color);
-}
-}
-.client-image{
+/*--.client-link:hover,
+.client-link:focus{
+    background-color: var(--primary-white-color);
+    border-color: var(--accent-color);
+    fill: var(--accent-color);
+}--*/
+
+.client-link:hover, 
+.client-link:focus {
+    fill: var(--hover-text-color);
+    border: 1px solid #2196f3;
+    outline: none;}
+
+    .client-image{
     width: 170px;
     height: 92px;
 }
